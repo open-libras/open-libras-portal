@@ -21,6 +21,7 @@ Este é o repositório do frontend do portal open libras :D
 * `src`
     * `components`: Componentes de UI seguindo o padrão [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)]
     * `constants`: Constantes da aplicação
+    * `containers`: Componentes que aplicam os componentes de UI com hooks ou providers
     * `hooks`: [React Hooks](https://reactjs.org/docs/hooks-intro.html) customizados
     * `providers`: Providers utilizando [React Context](https://reactjs.org/docs/context.html)
     * `routes`: Router e rotas da aplicação
